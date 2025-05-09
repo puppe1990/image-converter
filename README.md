@@ -2,6 +2,9 @@
 
 A Next.js application for converting images between different formats and optimizing them for the web.
 
+<img width="1673" alt="Screenshot 2025-05-09 at 14 20 26" src="https://github.com/user-attachments/assets/b6976e5a-de01-4ba0-a2b6-d41d269d1599" />
+
+
 ## Features
 
 - Convert images to JPEG, PNG, WebP formats
